@@ -1,0 +1,139 @@
+<resources>
+<!-- Madhuri (मधुरी) - berarti "manis", "kecantikan yang memikat"-->
+    <string name="app_name">Madhuri</string>
+    <string name="about_activity_label">Madhuri</string>
+    <string name="detail_name">Nama Kegiatan</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">About</string>
+    <string name="name">Muhammad Naufal Labib Ramadhan</string>
+    <string name="email">a179bsy2858@bangkit.academy</string>
+    <string name="data_description">data_description</string>
+    <string name="data_name">data_name</string>
+    <string name="foto_profil">Foto Profil</string>
+    <string name="foto_item">foto item</string>
+    <string name="data_description_title">Deskripsi</string>
+
+    <string-array name="data_name">
+        <item>Kamisato Ayaka</item>
+        <item>Senja Tenang</item>
+        <item>Bubur Ayam Jakarta</item>
+        <item>Es krim Matcha</item>
+        <item>RedVelvet</item>
+        <item>Crash</item>
+        <item>Kukis Matcha</item>
+        <item>Tes IELTS</item>
+        <item>Ekologi</item>
+        <item>Dou Cookies</item>
+        <item>Solo</item>
+        <item>Serangkai</item>
+    </string-array>
+
+    <string-array name="data_description">
+
+        <item>
+            Kamisato Ayaka adalah karakter yang menjadi kesukaan saya dalam permainan Genshin Impact.
+            Karakter ini juga yang menjadi inspirasi saya memberikan nama-nama dalam file yang ada pada kode ini.
+            Menurut saya, dia adalah karakter tercantik, terhebat, dan terkuat serta ada keseruan
+            tersendiri saat memainkannya. Dia adalah putri tertua dari klan Kamisato dan adik perempuan
+            Kamisato Ayato. Ayaka dikenal sebagai Shirasagi Himegimi yang berarti "Putri Bangau Putih".
+            Dia adalah wanita yang anggun, bijaksana, dan tekun.
+        </item>
+
+        <item>
+            Senja adalah sebuah karya seni melodi yang dipadukan dengan lirik penuh makna, sebuah lagu
+            cinta yang disajikan dengan indah oleh surga. Dalam setiap nadanya, Senja mewakili romansa
+            yang terukir dalam warna langit yang memudar seiring matahari bersiap untuk beristirahat.
+            Liriknya menciptakan aliran emosi yang mengalir bagai sungai romansa, membawa pendengarnya
+            pada perjalanan sentimental melintasi cakrawala perasaan. Mulai dari sentuhan lembut melodi
+            hingga kata-kata yang memikat, Senja membawa pendengarnya pada sebuah perjalanan penuh nuansa
+            dan keindahan, seolah langit sendiri yang mengekspresikannya sebagai sebuah kisah cinta abadi
+            yang terukir dalam warna-warni senja yang memesona.
+        </item>
+
+        <item>
+            Bubur ayam jakarta adalah makanan yang pertama kali aku makan bersama Nadia dalam first date kami.
+            Disana kami mengobrol tentang banyak hal mulai dari diri kami, masalah sekarang, hingga permasalahan keluarga.
+            Padahal pada saat itu kami masih belum jadian tetapi entah mengapa kami sangat begitu terbuka dan nyaman menceritakan
+            permasalahn kami satu sama lain.
+        </item>
+
+        <item>
+            Nadia sudah lama banget pengen makan es krim ini akhirnya kesampean, "es krimnya enak banget" ujar Nadia sambil menggelengkan
+            kepalanya karena sangat senang menikmati es krim ini. Kami mengobrol bersama sembari menikmati eskrim yang ada ini hingga
+            tak terasa waktu telah senja dan malam hampir tiba.
+        </item>
+
+        <item>
+            Sepertinya ini adalah kue terenak yang aku makan di Jogja. Rasanya yang manis, legit, dan harum menambah kenikmatan saat aku
+            menyantap kuenya. Lalu, terdapat sebuah cream cheese yang manis sedikit asem yang menambahkan cita rasa yang sempurna jika
+            dipadukan dengan kue redvelvetnya.
+        </item>
+
+        <item>
+            Tons Coffee, Nadia, dan Naufal. Pada malam itu terasa sangat tenang dan nyaman. Pun, aku juga fokus untuk belajar agar besok UTS lancar.
+            Tidak dikira setelah pulang dari situ sekitar jam 11 malam aku ditabrak orang lain dengan kecepatan yang luar biasa. Aku kepental, motorku rusak,
+            dan tanganku luka-luka hingga kaca helmku pecah. Alhamdulillah aku masih diberikan kehidupan sekarang dan bisa mengerjakan tugas Dicoding
+            pada hari ini.
+        </item>
+
+        <item>
+            Kukis lembut pertama yang aku makan seumur hidupku. Rasanya manis dan after taste yang pahit sedikit menciptakan rasa kombinasi yang sempurna.
+            Aku diberikan kukis ini oleh Nadia alias cewek aku sendiri. Dia memberikan itu agar memberikan aku semangat dalam mengerjakan tugas kuliah dan
+            kampus merdekanya.
+        </item>
+
+        <item>
+            IELTS tes dan Couvee Ahmad Dahlan. Tempat dimana aku dan Nadia bersama berjuang untuk mencoba seleksi agar mendapat bimbingan di Universitas
+            kami yaitu Ahmad Dahlan Yogyakarta, sehingga kami dapat ilmu secara gratis untuk persiapan IISMA atau lainnya.
+        </item>
+
+        <item>
+            Tempat ini adalah tempat dengan nuansa yang nyaman dan ambience yang menenangkan. Cocok digunakan untuk
+            belajar dan nugas. Di tempat ini juga tempat aku Study Date bersama Nadia sembari menikmati Kue Redvelvet
+            yang manis dan sedikit asem.
+        </item>
+
+        <item>
+            Kukis basah pertama yang aku makan seumur hidupku. Aku diajak bersama Nadia ke tempat ini pertama kalinya
+            untuk membeli kukis secara langsung. Biasanya aku hanya dibelikan untuk penyemangat aku dalam belajar tetapi
+            pada momen tersebut aku membelinya bersama dia secara langsung sambil menikmati momen berdua.
+        </item>
+
+        <item>
+            Solo, kota yang setiap pagi dihiasi senyuman mentari kota pertama yang aku kunjungi saat menggunakan KRL dan
+            kebetulan juga pada saat itu momen pertamaku naik KRL dengan tujuan destinasi yaitu Solo.
+            Solo diibarat seperti pelukan cahaya yang merayap di setiap sudutnya,
+            menciptakan lukisan emas yang merangkul kehidupan sehari-hari. Ibarat tari bayangan di senja hari,
+            tari Solo dengan warisan budayanya yang megah, sebuah kota yang menjadi ajang kesenian tradisional
+            yang mengalir dalam aliran sejarah yang tak terputus. Sendirian, terasa seperti sebuah simfoni kehidupan,
+            dimana hiruk pikuk pasar tradisional dan irama kendaraan klasik hidup berdampingan, menciptakan harmoni yang
+            menggetarkan setiap hati yang membenamkan diri dalam pesona kota ini.
+        </item>
+
+        <item>
+            Serangkai karya adalah buku karya Valerie Patkar yang penuh dengan kisah romantis manis dan drama memilukan.
+            Buku ini sudah lama sekali diincar oleh Nadia dia ingin sekali membaca buku ini dan mencium aroma bukunya secara langsung.
+            Tetapi, saat kami ingin membelinya ketika berada di Yogyakarta stok bukunya kebetulan habis. Nadia merasa sangat sedih
+            tentunya. Untungnya pada saat momen kami jalan-jalan ke Solo kami menyempatkan waktu untuk mampir ke Gramedia Solo
+            untuk sekedar melihat-lihat dan tidak disangka disana masih ada stok buku Serangkai, tanpa pikir panjang
+            dia mengambil buku tersebut dan membelinya, terlihat raut wajah yang sangat senang, gemas, lucu, dan gembira.
+        </item>
+
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/madhuri1</item>
+        <item>@drawable/madhuri2</item>
+        <item>@drawable/madhuri3</item>
+        <item>@drawable/madhuri4</item>
+        <item>@drawable/madhuri5</item>
+        <item>@drawable/madhuri7</item>
+        <item>@drawable/madhuri8</item>
+        <item>@drawable/madhuri9</item>
+        <item>@drawable/madhuri10</item>
+        <item>@drawable/madhuri11</item>
+        <item>@drawable/madhuri12</item>
+        <item>@drawable/madhuri13</item>
+    </integer-array>
+
+</resources>
